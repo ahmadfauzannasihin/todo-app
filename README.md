@@ -5,7 +5,7 @@ I create this project for practicing javascript and reactjs
 ## Usage
 ### clone repository 
 ```
-git clone https://github.com/aliffaizar/todo-app-react.git
+git clone https://github.com/ahmadfauzannasihin/todo-app.git
 ```
 ### Install dependencies
 ```
